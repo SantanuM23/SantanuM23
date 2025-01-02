@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=santanum23&label=Profile%20views&color=0e75b6&style=flat" alt="santanum23" /> </p>
 
-<p align="left"> <a href="https://twitter.com/santanum23" target="blank"><img src="https://img.shields.io/twitter/follow/santanum23?logo=twitter&style=for-the-badge" alt="santanum23" /></a> </p>
-
 - 📫 How to reach me **santanum2303@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
